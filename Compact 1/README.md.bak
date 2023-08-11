@@ -1,6 +1,7 @@
 # Compact View
+![preview1](preview1.png)
 
-Compact view that allows you to fit a large number of Dockers in a single folder.
+Compact view that allows you to fit a larger number of Dockers in a single folder.
 
 - Changes include eliminating the status copy in the folder preview. Status can be easily recongize by the icon. 
 - Stopped container color changed to orange to make is less visually strong.
@@ -11,5 +12,4 @@ Compact view that allows you to fit a large number of Dockers in a single folder
 
 
 
-![preview1](preview1.png)
 

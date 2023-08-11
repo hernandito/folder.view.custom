@@ -1,5 +1,5 @@
 # Compact View
-![preview1](preview1.png)
+![preview1](preview.png)
 
 Compact view that allows you to fit a larger number of Dockers in a single folder.
 
