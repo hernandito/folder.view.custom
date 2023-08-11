@@ -12,6 +12,5 @@ Here is a link to the plugin's **[Support Page](https://forums.unraid.net/topic/
 
 To implemet a customization, you must have the Folder.View plugin installed in your unRAID server. Simply copy the appropriate "docker-custom.css" file into your Flash drive's **/boot/config/plugins/folder.view/styles** folder.  
 
-
-This is simply wrapping the source in a runnable Docker image for everyone that cannot install the dev environment on his machine or everyone that wants a simple containerized solution.
-
+Below are my typical settings for each FolderView.
+![preview1](settings.png)

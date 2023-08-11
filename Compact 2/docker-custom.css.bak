@@ -1,0 +1,104 @@
+img.img, i.img {
+  width: 38px !important;
+  height: 38px !important;
+  margin-right: 5px !important;
+}
+
+td.ct-name {
+	width: 212px !important;
+
+}
+
+button[class*='dropDown-'] {
+	margin-top: 5px !important;
+	margin-right: 3px !important;
+	
+ }
+
+a.folder-appname {
+  font-size: 15px !important;
+  font-weight: bold !important;
+
+}
+
+td.updatecolumn {
+	width: 90px !important;
+	padding: 4px 4px 4px 0px !important;
+	text-align: center !important;
+}
+
+i.fa-globe {
+	font-size: 18px !important;
+	color: #8c8c8c  !important;
+}
+
+i.fa-bars {
+	font-size: 18px !important;
+	color: #8c8c8c  !important;
+	padding-right: 3px !important;
+	
+}
+
+i.red-text {
+  color: #eba500  !important;
+    font-size: 16px !important;
+}
+
+span.state {
+  font-size: 0px !important;
+	margin-left: 0px !important;
+}
+
+
+td.ct-name span.state {
+	font-size: 1.1rem !important;
+	margin-left: 7px !important;
+
+}
+
+
+.folder-preview-divider {
+  padding-right:5px !important;
+}
+
+.folder-preview-wrapper {
+  margin-top: 5px !important;
+}
+
+
+div.folder-preview-4 i.fa-globe {
+	  font-size: 0px !important;
+}
+
+div.folder-preview-4 i.fa-bars {
+	  font-size: 0px !important;
+}
+
+div.folder-preview-4 a.exec {
+	  color: #797979 !important;
+}
+
+.folder-preview {
+  background-color: #ffedd2 !important;
+  border-left: 8px solid #bdd8e4  !important;
+
+}
+
+.appname .orange-text, .warning a.exec{
+  font-weight: bold !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+div.folder-name-sub {
+    border: 1px solid rgb(214, 211, 211)!important;
+	background-color: #ffedd2 !important;
+	border-radius: 4px;
+	padding: 4px !important;
+	border-left: 8px solid #bdd8e4 !important;
+	border-right: 8px solid #bdd8e4 !important;
+
+}
+
