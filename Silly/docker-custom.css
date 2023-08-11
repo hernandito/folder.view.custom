@@ -2,6 +2,7 @@ img.img, i.img {
   width: 38px !important;
   height: 38px !important;
   margin-right: 5px !important;
+  filter: grayscale(100%);
 }
 
 td.ct-name {
@@ -79,7 +80,7 @@ div.folder-preview-4 a.exec {
 }
 
 .folder-preview {
-  background-color: #ffedd2 !important;
+
   border-left: 8px solid #bdd8e4  !important;
 
 }
@@ -94,7 +95,7 @@ a:hover {
 
 div.folder-name-sub {
     border: 1px solid rgb(214, 211, 211)!important;
-	background-color: #ffedd2 !important;
+
 	border-radius: 4px;
 	padding: 4px !important;
 	border-left: 8px solid #bdd8e4 !important;

@@ -10,7 +10,9 @@ Here is a link to the the **[Folder.View](https://github.com/scolcipitato/folder
 
 Here is a link to the plugin's **[Support Page](https://forums.unraid.net/topic/142782-plugin-folderview/)** on the unRAID forum:
 
-To implemet a customization, you must have the Folder.View plugin installed in your unRAID server. Simply copy the appropriate "docker-custom.css" file into your Flash drive's **/boot/config/plugins/folder.view/styles** folder.  
+If you have customization suggestions, please drop me a line in the unRAID forum.
+
+To implement a customization, you must have the Folder.View plugin installed in your unRAID server. Simply copy the appropriate "docker-custom.css" file into your Flash drive's **/boot/config/plugins/folder.view/styles** folder.  
 
 Below are my typical settings for each FolderView.
 ![preview1](settings.png)
