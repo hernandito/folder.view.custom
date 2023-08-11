@@ -6,8 +6,7 @@ Special thanks to scolpitato for creating and continuing with the Docker page mo
 
 ![preview1](preview.png)
 
-Here is a link to the the Folder.View repo:
-https://github.com/scolcipitato/folder.view/tree/main
+Here is a link to the the [Folder.View](https://github.com/scolcipitato/folder.view/tree/main) repo:
 
 Here is a link to the plugin's Support Page on the unRAID forum:
 https://forums.unraid.net/topic/142782-plugin-folderview/
