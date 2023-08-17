@@ -6,6 +6,11 @@ Special thanks to scolpitato for creating and continuing with the Docker page mo
 
 ![preview1](preview.png)
 
+### UPDATE August 17, 2023
+Added code to the Advanced View. Minimized the non-visible "Uptime" column to take less space. Styled the CPU/Memory block and made narrower.
+![preview2](preview2.png)
+
+
 Here is a link to the the **[Folder.View](https://github.com/scolcipitato/folder.view/tree/main)** repo:
 
 Here is a link to the plugin's **[Support Page](https://forums.unraid.net/topic/142782-plugin-folderview/)** on the unRAID forum:
