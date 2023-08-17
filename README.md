@@ -4,7 +4,7 @@ Custom Folder.View GUI modifications to the amazing Folder.View plugin for unRAI
 
 Special thanks to scolpitato for creating and continuing with the Docker page modification that groups your Docker icons into custom folders of your choosing. This plugin makes the Docker GUI page less cluttered and more organized. He has been very helpful in accommodating changes to his code to allow individuals to make the customizations.
 
-![preview1](preview.png)
+![preview1](preview1a.png)
 
 ### UPDATE August 17, 2023
 Added code to the Advanced View. Minimized the non-visible "Uptime" column to take less space. Styled the CPU/Memory block and made narrower.
