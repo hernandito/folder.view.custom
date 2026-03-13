@@ -1,0 +1,533 @@
+img.img, i.img {
+  width: 38px !important;
+  height: 38px !important;
+  margin-right: 5px !important;
+}
+
+/*    
+@media only screen and (max-width: 1400px) {
+	  img.img, i.img { 
+	  width: 30px !important;
+	  height: 30px !important;
+	  margin-right: 3px !important;
+	  margin-left: 3px;
+	  }
+	  
+	  .folder-preview-wrapper {
+	  margin-top: 5px !important;
+	   margin-left: 3px !important;
+	}
+
+	  td.ct-name {
+	  width: 200px !important;
+	}
+
+	.folder-preview-wrapper {
+	  margin-top: 7px !important;
+	}
+
+}
+
+td.ct-name {
+	width: 222px !important;
+
+}
+*/
+
+
+button[class*='dropDown-'] {
+	margin-top: 5px !important;
+	margin-right: 3px !important;
+	color: #6e6e6e !important;
+	background: #e6e6e6 !important;
+	border: 1px solid #b6b6b6 !important;
+ }
+
+a.folder-appname {
+  font-size: 16px !important;
+  font-weight: bold !important;
+
+}
+
+td.updatecolumn {
+	width: 90px !important;
+	padding: 4px 4px 4px 0px !important;
+	text-align: center !important;
+}
+
+i.fa-globe {
+	font-size: 18px !important;
+	color: #8c8c8c  !important;
+}
+
+i.fa-bars {
+	font-size: 18px !important;
+	color: #8c8c8c  !important;
+	padding-right: 3px !important;
+/*	border-right: 1px solid #dddddd  !important; */
+	
+}
+
+i.red-text {
+  color: #ea4702  !important;
+    font-size: 16px !important;
+}
+
+span.state {
+  font-size: 0px !important;
+	margin-left: 0px !important;
+}
+
+
+td.ct-name span.state {
+	font-size: 1.1rem !important;
+	margin-left: 7px !important;
+
+}
+
+td.folder-name {
+/*	background-color: #ffedd2 !important; 
+	border: 1px solid #bbbbbb !important; 
+  display: block !important; 
+  margin: 3px;
+  border-radius: 4px;*/
+}
+
+
+.folder-preview-divider {
+/*  border-right: 1px solid #d2d0d0  !important; */
+  padding-right:5px !important;
+}
+
+.folder-preview-wrapper {
+  margin-top: 4px !important;
+}
+
+
+div.folder-preview-4 i.fa-globe {
+	  font-size: 0px !important;
+}
+
+div.folder-preview-4 i.fa-bars {
+	  font-size: 0px !important;
+}
+
+div.folder-preview-4 a.exec {
+	  color: #797979 !important;
+}
+
+.folder-preview {
+  background-color: #ffedd2 !important;
+  border-left: 8px solid #bdd8e4  !important;
+  
+  padding-top: 2px !important;
+  height: 3.7em !important;
+  
+  
+/*box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.14); */
+}
+
+.appname .orange-text, .warning a.exec{
+  font-weight: bold !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+/*
+tr.sortable {
+  border: 1px solid #dddddd !important; 
+  display: block !important;
+  margin: 3px;
+  
+  border: 4px solid #bbbbbb !important;
+}
+*/
+
+div.folder-name-sub {
+    border: 1px solid rgb(214, 211, 211)!important;
+	background-color: #ffedd2 !important;
+	border-radius: 4px;
+	padding: 4px !important;
+	border-left: 8px solid #bdd8e4 !important;
+	border-right: 8px solid #bdd8e4 !important;
+	
+/*	box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.14); */
+}
+
+img.folder-img {
+	padding-top: 3px !important;
+}
+
+
+/* 
+=============================================================
+  Code Below Is for the Advanced View. Disable if you prefer
+=============================================================
+*/
+
+span[class*='cpu-folder-'] {
+	font-size: 14px !important;
+	font-weight: bold;
+	color: #256f92;
+	
+ }
+ 
+ span[class*='mem-folder-'] {
+	font-size: 9px !important;
+
+ }
+ 
+ td.folder-advanced {
+	width: 80px !important;
+}
+
+.folder-load {
+  height: 7px !important;
+  margin: 0 !important;;
+}
+
+th.five {
+	width: 0px !important;
+	font-size: 0px !important;
+	padding: 0px  !important;
+}
+
+th.advanced  {
+	font-size: 0px !important;
+}
+th.load {
+  width: 80px !important;
+}
+
+.advanced {
+  display: none;
+  white-space: nowrap;
+  font-size: 1.1rem;
+}
+
+
+/* 
+==========================================
+  END of code for the Advanced View. 
+==========================================
+*/
+
+
+
+span.folder-inner {
+	margin-top: 4px !important;
+}
+
+span.inner {
+	margin-top: 2px !important;
+}
+
+/*    */
+@media only screen and (max-width: 1400px) {
+	  img.img, i.img { 
+	  width: 38px !important;
+	  height: 38px !important;
+	  margin-right: 3px !important;
+	  margin-left: 3px;
+	  }
+	  
+	  .folder-preview-wrapper {
+	  margin-top: 5px !important;
+	   margin-left: 3px !important;
+	}
+
+	  td.ct-name {
+	  width: 222px !important;
+	}
+
+	.folder-preview-wrapper {
+	  margin-top: 4px !important;
+	}
+
+}
+
+/* 
+==========================================
+Advanced Docker ToolTip Box
+==========================================
+
+div[id*='tooltipster-'] div.tooltipster-content {
+	border: 1px solid #888888 !important;
+	-webkit-box-shadow: 1px 1px 10px 3px #D1D1D1;
+	box-shadow: 1px 1px 10px 3px #999999;
+	padding: 8px !important;
+	border-radius: 10px;
+	background-color: white;
+}
+
+
+*/
+div[id*='tooltipster-'] div.tooltipster-content {
+/*	box-shadow: 1px 1px 10px 3px #999999;
+*/
+	background-color: white;
+}
+
+
+div.tooltipster-content img.img, i.img {
+  width: 58px !important;
+  height: 58px !important;
+  padding-left: 6px;
+  font-size: 2.3rem;
+  font-weight: bold;
+ 
+}
+
+div.tooltipster-content div.preview-actual-name {
+  padding-left: 5px;
+  
+}
+
+div.tooltipster-content span.appname {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+div.tooltipster-content div.info-ct {
+  padding-right: 30px;
+
+}
+
+div.tooltipster-content div.first-row {
+  background-color: #eefaff !important;
+
+}
+
+div.tooltipster-content div.second-row {
+  padding-top: 4px;
+
+}
+
+div[id*='info-ports-'] {
+	padding-top: 10px !important;
+	background-color: #fff7eb !important;
+	padding-left: 10px;
+	color: #486dba !important;
+	border: 1px solid #d6d6d6 !important;
+
+ }
+ 
+ div[id*='info-volumes-'] {
+  padding-top: 10px !important;
+  background-color: #fff7eb !important;
+  padding-left: 10px;
+  color: #486dba !important;
+  border: 1px solid #d6d6d6 !important;
+
+ }
+ 
+ div.tooltipster-content canvas {
+  border: 1px solid #e1e1e1;
+  padding: 2px;
+  background-color: #fffbf5;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+div.tooltipster-content div.preview-name {
+	border-right: 1px solid #cfcfcf  !important;
+	width: 21vw  !important;
+}
+
+div.tooltipster-content div[id*='tooltipster-'] {
+	height: 520px !important;
+
+ }
+
+/* 
+ 
+div.tooltipster-content div[class*='preview-outbox-'] {
+  min-height: 0vh !important;
+
+ }
+ 
+ */
+ 
+ div.tooltipster-content th[class*='status-header-'] {
+ color: #6e6e6e;
+ background-color: #ddedf4   !important;
+ border-bottom: 1px solid #bbbbbb !important;
+}
+
+
+ div.tooltipster-content div.info-ct {
+  bottom: 7px;
+  background-color: #ffedd2;
+ }
+
+
+/* 
+ .tooltipster-docker-folder > .tooltipster-box > .tooltipster-content {
+  width: 720px !important;
+}
+
+*/
+
+.preview-outbox {
+
+  height: 100%;
+
+}
+
+
+.preview-status {
+  padding-left: 4px;
+}
+
+.status-header-autostart {
+  border-radius: 0px;
+
+}
+
+.status-header-version {
+  border-radius: 0px;
+}
+
+span.repo {
+	font-size: 0px;
+}
+
+span.repo a {
+	font-size: 9px;
+}
+
+/*
+
+div.info-ct span.container-id {
+	font-size: 10px;
+}
+*/
+
+
+div.preview-outbox {
+  min-width: 30vw;
+
+}
+
+.action-info {
+  height: 320px;
+}
+
+div.tooltipster-base {
+	height: 438px !important;
+}
+
+div.action-left {
+    width: 80px !important;
+}
+
+div.action-right {
+    width: 80px !important;
+}
+
+table.tablesorter tbody tr td {
+  padding-right: 0px !important;
+}
+
+th.nine {
+  width: 0px !important;
+  padding-right: 12px !important;
+}
+
+
+
+span.outer {
+  margin-bottom: 0px!important;
+  margin-right: 0;
+}
+
+
+.folder-outer {
+  width: calc(220px - 50px);
+}
+
+
+
+.preview-outbox {
+  min-width: min(700px, 90vw);
+ 
+  min-height: 400px;
+  max-height: 800px;
+  padding: 10px;
+  background-color: #fff;
+  color: inherit;
+  border: 1px solid #999;
+  border-radius: 0px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: var(--tooltip-spacing);
+  overflow: auto;
+  box-shadow: 1px 1px 10px 3px #999999;
+}
+
+
+.tooltipster-sidetip .tooltipster-box {
+  border-radius: 0px;
+
+}
+
+
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+  border: 1px solid #aaa;
+  background: #fff;
+  font-weight: normal;
+  color: #555555;
+}
+
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+  border: 1px solid #d3d3d3;
+  background: #e6e6e6;
+  font-weight: normal;
+  color: #555;
+  margin-right: 6px;
+}
+
+.info-tabs > li[aria-selected="true"] a {
+  background-color: #fff;
+  border-color: #dedede;
+  position: relative;
+}
+
+.info-tabs a {
+  padding: 2px 20px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 0px;
+}
+
+.action-left {
+  margin-right: 20px;
+}
+
+.action a:hover {
+  background-color: #ffedd2;
+}
+
+.info-section .ui-tabs-panel {
+  padding: 20px;
+}
+
+
+div[id^="comb-grapth-"] {
+    padding:0px !important;
+}
+
+[id^="comb-grapth-"] canvas {
+    height: 100% !important;
+}
+
+:root {
+--folder-view3-graph-cpu: #0067ec;
+  --folder-view3-graph-mem: #44a600;;
+  --tooltip-spacing: 10px;
+}
