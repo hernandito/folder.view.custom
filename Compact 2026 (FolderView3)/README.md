@@ -1,4 +1,4 @@
-# Compact View - 20026 FolderView3 Compatible
+# Compact View - 2026 FolderView3 Compatible
 ![preview1](preview.png)
 
 Compact view that allows you to fit a larger number of Dockers in a single folder.
